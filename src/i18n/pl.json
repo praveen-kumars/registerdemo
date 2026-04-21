@@ -1,0 +1,82 @@
+{
+  "languageLabel": "Język",
+  "languageOptions": {
+    "en": "English (EN)",
+    "pl": "Polski (PL)"
+  },
+  "header": {
+    "title": "Utwórz konto",
+    "subtitlePrefix": "Masz już konto?",
+    "subtitleLink": "Zaloguj się"
+  },
+  "form": {
+    "firstName": {
+      "label": "Imię",
+      "placeholder": "Wpisz swoje imię"
+    },
+    "lastName": {
+      "label": "Nazwisko",
+      "placeholder": "Wpisz swoje nazwisko"
+    },
+    "dateOfBirth": {
+      "label": "Data urodzenia",
+      "placeholder": "DD-MM-RRRR"
+    },
+    "email": {
+      "label": "Adres e-mail",
+      "placeholder": "ty@przykład.pl"
+    },
+    "phoneNumber": {
+      "label": "Numer telefonu",
+      "placeholder": "np. 500 000 000"
+    },
+    "password": {
+      "label": "Hasło",
+      "placeholder": "Min. 8 znaków",
+      "show": "Pokaż hasło",
+      "hide": "Ukryj hasło"
+    },
+    "timezone": {
+      "label": "Strefa czasowa",
+      "placeholder": "Wybierz strefę czasową",
+      "groups": {
+        "Europe": "Europa",
+        "Americas": "Ameryki",
+        "Asia": "Azja",
+        "Africa": "Afryka",
+        "Pacific": "Pacyfik"
+      }
+    },
+    "terms": {
+      "prefix": "Akceptuję",
+      "tos": "Regulamin",
+      "middle": "i",
+      "privacy": "Politykę prywatności"
+    }
+  },
+  "select": {
+    "noOptions": "Brak wyników"
+  },
+  "pages": {
+    "backToRegister": "Wróć do rejestracji",
+    "login": {
+      "eyebrow": "Demo rejestracji",
+      "title": "Zaloguj się",
+      "description": "Ta strona demonstracyjna zachowuje wybrany język z procesu rejestracji."
+    },
+    "terms": {
+      "eyebrow": "Regulamin",
+      "title": "Regulamin",
+      "description": "Ta strona demonstracyjna jest miejscem na treść Regulaminu."
+    },
+    "privacy": {
+      "eyebrow": "Polityka prywatności",
+      "title": "Polityka prywatności",
+      "description": "Ta strona demonstracyjna jest miejscem na treść Polityki prywatności."
+    }
+  },
+  "button": {
+    "register": "Zarejestruj się",
+    "submitting": "Tworzenie konta..."
+  }
+}

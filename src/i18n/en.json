@@ -1,0 +1,82 @@
+{
+  "languageLabel": "Language",
+  "languageOptions": {
+    "en": "English (EN)",
+    "pl": "Polski (PL)"
+  },
+  "header": {
+    "title": "Create your account",
+    "subtitlePrefix": "Already have an account?",
+    "subtitleLink": "Log in"
+  },
+  "form": {
+    "firstName": {
+      "label": "First name",
+      "placeholder": "Enter your first name"
+    },
+    "lastName": {
+      "label": "Last name",
+      "placeholder": "Enter your last name"
+    },
+    "dateOfBirth": {
+      "label": "Date of birth",
+      "placeholder": "DD-MM-YYYY"
+    },
+    "email": {
+      "label": "Email address",
+      "placeholder": "you@example.com"
+    },
+    "phoneNumber": {
+      "label": "Phone number",
+      "placeholder": "e.g. 500 000 000"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Min. 8 characters",
+      "show": "Show password",
+      "hide": "Hide password"
+    },
+    "timezone": {
+      "label": "Timezone",
+      "placeholder": "Select timezone",
+      "groups": {
+        "Europe": "Europe",
+        "Americas": "Americas",
+        "Asia": "Asia",
+        "Africa": "Africa",
+        "Pacific": "Pacific"
+      }
+    },
+    "terms": {
+      "prefix": "I accept the",
+      "tos": "Terms of Service",
+      "middle": "and",
+      "privacy": "Privacy Policy"
+    }
+  },
+  "select": {
+    "noOptions": "No results found"
+  },
+  "pages": {
+    "backToRegister": "Back to registration",
+    "login": {
+      "eyebrow": "Register Demo",
+      "title": "Log in",
+      "description": "This placeholder page keeps the selected language in sync with the registration flow."
+    },
+    "terms": {
+      "eyebrow": "Terms of Service",
+      "title": "Terms of Service",
+      "description": "This demo page is a placeholder for your Terms of Service content."
+    },
+    "privacy": {
+      "eyebrow": "Privacy Policy",
+      "title": "Privacy Policy",
+      "description": "This demo page is a placeholder for your Privacy Policy content."
+    }
+  },
+  "button": {
+    "register": "Register",
+    "submitting": "Creating account..."
+  }
+}
